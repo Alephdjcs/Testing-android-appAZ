@@ -11,7 +11,7 @@ pr:
   - master
 
 pool:
-  vmImage: 'macos-latest'
+  vmImage: 'Azure Pipelines'
 
 steps:
 - task: Gradle@2
