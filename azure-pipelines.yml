@@ -11,7 +11,7 @@ pr:
   - master
 
 pool:
-  vmImage: 'Azure Pipelines'
+  vmImage: 'windows-latest'
 
 steps:
 - task: Gradle@2
